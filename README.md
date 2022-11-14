@@ -32,7 +32,7 @@ Homework Bound was a project I worked on with a team of developers to test our u
 
 ## Lessons Learned
 
-I learned how to incorporate consistent styling across multiple web pages, as well as the use of partials to reuse code. I greatly enjoyed collaborating with a team to brainstorm ideas, debug issues through mob and pair programming, and allocate tasks while supporting eachother through out the development process. 
+I learned how to incorporate consistent styling across multiple web pages, as well as the use of partials to reuse code. I greatly enjoyed collaborating with a team to brainstorm ideas, debug issues through mob and pair programming, and allocate tasks while supporting each other throughout the development process. 
 
 ## Team Members
 
