@@ -2,7 +2,7 @@
 
 This application was created for students in order to keep track of their classroom assignments and upcoming tests. The user can create, save, edit, and delete their assignment while setting an upcoming due date.
 
-**Link to project:** http://homeworkbound.herokuapp.com/
+**Link to project:** https://homeworkbound.up.railway.app/
 
 https://user-images.githubusercontent.com/102431119/194131205-e6c79715-1c71-4c89-b53c-c8ee6d2c7c36.mp4
 
